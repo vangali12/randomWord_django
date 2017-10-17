@@ -1,0 +1,24 @@
+*{
+	box-sizing: border-box;
+	border: 1px dotted red;
+	margin: 0px auto;
+}
+
+.wrapper {
+	text-align: center;
+	width: 50%;
+	border: 2px solid black;
+	margin: 40px auto;
+}
+
+h2{
+	font-size: 30pt;
+	font-weight: lighter;
+}
+
+.display {
+	width: 80%;
+	height: 80px;
+	font-size: 50pt;
+	margin: 20px auto;
+}
